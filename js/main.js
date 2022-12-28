@@ -57,11 +57,5 @@ $(document).ready(function () {
     }
 
     navbarFixed();
-
-    //dark mode toggle
-    function myFunction() {
-        var element = document.body;
-        element.classList.toggle("dark-mode");
-    }
 });
 
